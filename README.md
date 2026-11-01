@@ -20,6 +20,13 @@ On a Mac you drag it to Applications. On Windows you click Install. Because it i
 
 The source code isn't public. This repo is here to say what it does, and to take bug reports and ideas.
 
+## Coming from Arc?
+
+The first time you open Noah's Ark, it finds your Arc on the same computer and offers to bring it over. Your Arc stays exactly as it is.
+
+- **Comes with you:** your Spaces with their icons and colors, favorites, pinned tabs, folders, open tabs, and extensions from the Library.
+- **Doesn't:** saved passwords and sign-ins, so you'll sign in to your sites again. Browsing history, Boosts, Easels and Notes don't either.
+
 ## What it does
 
 **Tabs that stay out of your way**
