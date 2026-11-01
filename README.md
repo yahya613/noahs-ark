@@ -36,8 +36,10 @@ curl -fsSL https://raw.githubusercontent.com/yahya613/noahs-ark/main/update.sh |
 [Net.ServicePointManager]::SecurityProtocol='Tls12'; irm https://raw.githubusercontent.com/yahya613/noahs-ark/main/update.ps1 | iex
 ```
 
-## What's new in 0.13.1
+## What's new in 0.14
 
+- Updates are now about 2 MB instead of over 100 MB, so they arrive and install in seconds.
+- If an update ever won't start, the browser goes back to the last version that worked.
 - Websites can now ask to use your microphone and camera. Before, many of them acted as if you had already said no.
 - If your Mac or Windows is blocking the microphone or camera, you now get told, with a button to the right setting.
 - After each update, a window tells you what changed.
