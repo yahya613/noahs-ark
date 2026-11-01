@@ -38,6 +38,8 @@ curl -fsSL https://raw.githubusercontent.com/yahya613/noahs-ark/main/update.sh |
 
 ## What's new in 0.14
 
+- Extensions now open in a set place: bigger ones at the top right of the window, smaller ones right where you clicked.
+- They have a bar to drag them around by and an X to close them, and they stay open when you click somewhere else.
 - Updates are now about 2 MB instead of over 100 MB, so they arrive and install in seconds.
 - If an update ever won't start, the browser goes back to the last version that worked.
 - Websites can now ask to use your microphone and camera. Before, many of them acted as if you had already said no.
