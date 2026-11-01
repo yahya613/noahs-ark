@@ -6,7 +6,7 @@
 
 <p align="center">A web browser built around a sidebar, with Spaces to keep your tabs apart. For Mac and Windows.</p>
 
-<p align="center"><a href="https://noahs-ark.starktech.workers.dev"><b>Download it from the website</b></a></p>
+<p align="center"><a href="https://noahs-ark.starktech.workers.dev"><b>Website</b></a> · <a href="../../releases/latest"><b>Download the latest version</b></a></p>
 
 <p align="center">
   <img src="assets/browser.png" alt="Noah's Ark showing a page, with favorites, pinned tabs and open tabs in the sidebar">
@@ -14,9 +14,9 @@
 
 ## Download
 
-Get it from **[noahs-ark.starktech.workers.dev](https://noahs-ark.starktech.workers.dev)**. That's the only official place to download it.
+Get it from **[the website](https://noahs-ark.starktech.workers.dev)** or **[the latest release here](../../releases/latest)**. Those are the only official places to download it.
 
-On a Mac you drag it to Applications. On Windows you click Install. Because it isn't signed with a paid Apple or Microsoft certificate, your computer warns you the first time, and the website shows what to click.
+On a Mac you drag it to Applications. On Windows you click Install. Because it isn't signed with a paid Apple or Microsoft certificate, your computer warns you the first time, and both pages show what to click.
 
 The source code isn't public. This repo is here to say what it does, and to take bug reports and ideas.
 
