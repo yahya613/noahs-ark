@@ -20,6 +20,28 @@ On a Mac you drag it to Applications. On Windows you click Install. Because it i
 
 The source code isn't public. This repo is here to say what it does, and to take bug reports and ideas.
 
+## Update from the terminal
+
+Already have it? This brings you to the newest version right now, and keeps your tabs, sign-ins and extensions.
+
+**Mac** (Terminal):
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/yahya613/noahs-ark/main/update.sh | bash
+```
+
+**Windows** (PowerShell):
+
+```powershell
+[Net.ServicePointManager]::SecurityProtocol='Tls12'; irm https://raw.githubusercontent.com/yahya613/noahs-ark/main/update.ps1 | iex
+```
+
+## What's new in 0.13.1
+
+- Websites can now ask to use your microphone and camera. Before, many of them acted as if you had already said no.
+- If your Mac or Windows is blocking the microphone or camera, you now get told, with a button to the right setting.
+- After each update, a window tells you what changed.
+
 ## Coming from Arc?
 
 The first time you open Noah's Ark, it finds your Arc on the same computer and offers to bring it over. Your Arc stays exactly as it is.
