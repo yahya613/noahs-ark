@@ -15,4 +15,4 @@ about: Something isn't working
 **Mac or Windows, and which version?** (Settings shows the version)
 
 
-Please don't post your download link, passwords or anything else private. Everything here is public.
+Please don't post passwords or anything else private. Everything here is public.

@@ -6,15 +6,19 @@
 
 <p align="center">A web browser built around a sidebar, with Spaces to keep your tabs apart. For Mac and Windows.</p>
 
+<p align="center"><a href="https://noahs-ark.starktech.workers.dev"><b>Download it from the website</b></a></p>
+
 <p align="center">
   <img src="assets/browser.png" alt="Noah's Ark showing a page, with favorites, pinned tabs and open tabs in the sidebar">
 </p>
 
-## Status
+## Download
 
-Noah's Ark is in private testing, and downloads are shared by invite only. The source code isn't public.
+Get it from **[noahs-ark.starktech.workers.dev](https://noahs-ark.starktech.workers.dev)**. That's the only official place to download it.
 
-This repo is the public home for the project: what it does, and a place to report bugs and suggest ideas.
+On a Mac you drag it to Applications. On Windows you click Install. Because it isn't signed with a paid Apple or Microsoft certificate, your computer warns you the first time, and the website shows what to click.
+
+The source code isn't public. This repo is here to say what it does, and to take bug reports and ideas.
 
 ## What it does
 
@@ -47,8 +51,6 @@ This repo is the public home for the project: what it does, and a place to repor
 - A command bar for searching, opening and switching
 - Picture in picture and a mini player in the sidebar
 - Easels, Notes and screen capture with markup
-- Share links for notes, easels, pinned tabs and boosts
-- Ark Max: ask about a page, preview a link and tidy tab titles, tabs and downloads
 - Updates itself
 
 <p align="center">
@@ -68,7 +70,7 @@ It's built on Chromium, through Electron.
 
 ## Bugs and ideas
 
-[Open an issue](../../issues/new/choose). Please don't post your download link, passwords or anything else private, because everything here is public.
+[Open an issue](../../issues/new/choose). Please don't post passwords or anything else private, because everything here is public.
 
 ## About
 
