@@ -36,6 +36,12 @@ curl -fsSL https://raw.githubusercontent.com/yahya613/noahs-ark/main/update.sh |
 [Net.ServicePointManager]::SecurityProtocol='Tls12'; irm https://raw.githubusercontent.com/yahya613/noahs-ark/main/update.ps1 | iex
 ```
 
+## What's new in 0.16
+
+- If you're signed in, your open tabs and history now follow you too. Tabs from your other computer wait in the sidebar and only load when you click them.
+- You can turn either one off for each computer in Settings, under Account. Like everything else, they're locked before they're sent.
+- There's now a Send feedback box in Settings. Tell us what's broken or what you'd like.
+
 ## What's new in 0.15
 
 - You can now make an account and sign in on all your computers. Your Spaces, folders, favorites and pinned tabs stay the same on each one.
@@ -89,7 +95,7 @@ The first time you open Noah's Ark, it finds your Arc on the same computer and o
 
 **The rest of the kit**
 
-- An account, to keep your Spaces, folders, favorites and pinned tabs the same on all your computers
+- An account, to keep your Spaces, tabs, favorites and history the same on all your computers
 - A command bar for searching, opening and switching
 - Picture in picture and a mini player in the sidebar
 - Easels, Notes and screen capture with markup
@@ -112,7 +118,7 @@ It's built on Chromium, through Electron.
 
 ## Bugs and ideas
 
-[Open an issue](../../issues/new/choose). Please don't post passwords or anything else private, because everything here is public.
+Use Send feedback in the browser's Settings, or [open an issue](../../issues/new/choose). Please don't post passwords or anything else private, because everything here is public.
 
 ## About
 

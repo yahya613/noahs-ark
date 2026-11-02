@@ -1,8 +1,8 @@
 # Puts the newest app code into the copy already on this PC, for when the normal update can't be built yet.
 # It puts the old one back if the new one won't open.
 & {
-  $version = '0.15.1'
-  $sha = '110b68e267422e82260a38e71cbda8d909c1825ced03db1977c31f118e2205a2'
+  $version = '0.16.0'
+  $sha = 'ba8d2551e924c10e39cd749809e94149af83145cc1600405977dd74e8db347ca'
   $site = 'https://noahs-ark.starktech.workers.dev'
   $dest = if ($env:QUICK_UPDATE_DEST) { $env:QUICK_UPDATE_DEST } else { "$env:LOCALAPPDATA\Programs\Arc" }
   $exe = Join-Path $dest 'Arc.exe'
