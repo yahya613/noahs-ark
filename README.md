@@ -42,6 +42,7 @@ curl -fsSL https://raw.githubusercontent.com/yahya613/noahs-ark/main/update.sh |
 - It's locked on your computer before it's sent, so nobody else can read it. Open tabs, passwords and sign-ins stay on each computer.
 - You sign up with just a username and password, no email. Nobody can reset a forgotten password, so you get a recovery code to keep.
 - Find it in Settings, under Account.
+- New versions now show up much sooner. The browser looks for one when it opens and once an hour, instead of every 6 hours.
 
 ## What's new in 0.14
 
