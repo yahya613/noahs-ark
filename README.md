@@ -36,6 +36,13 @@ curl -fsSL https://raw.githubusercontent.com/yahya613/noahs-ark/main/update.sh |
 [Net.ServicePointManager]::SecurityProtocol='Tls12'; irm https://raw.githubusercontent.com/yahya613/noahs-ark/main/update.ps1 | iex
 ```
 
+## What's new in 0.17
+
+- New accounts now sign in with your email instead of a username. Your address isn't stored in readable form, only a scrambled version that can't be turned back.
+- Email codes and getting back in by email aren't switched on yet, so keep the recovery code you get. Once they are, you can add your email in Settings, under Account.
+- Coming from Arc now brings each profile for real, with its own Spaces, favorites, sign-ins and extensions kept apart like they were there, plus your history. Close Arc first. Already brought Arc over? Do it again from Settings.
+- On Windows, the logo is now sharp in the taskbar and title bars, and shortcuts carry it properly.
+
 ## What's new in 0.16
 
 - If you're signed in, your open tabs and history now follow you too. Tabs from your other computer wait in the sidebar and only load when you click them.
@@ -64,8 +71,8 @@ curl -fsSL https://raw.githubusercontent.com/yahya613/noahs-ark/main/update.sh |
 
 The first time you open Noah's Ark, it finds your Arc on the same computer and offers to bring it over. Your Arc stays exactly as it is.
 
-- **Comes with you:** your Spaces with their icons and colors, favorites, pinned tabs, folders, open tabs, and extensions from the Library.
-- **Doesn't:** saved passwords and sign-ins, so you'll sign in to your sites again. Browsing history, Boosts, Easels and Notes don't either.
+- **Comes with you:** each profile, kept apart, with its own Spaces, icons and colors, favorites, pinned tabs, folders, open tabs, extensions and most of your sign-ins, plus your browsing history. Close Arc first, so your sign-ins can come too.
+- **Doesn't:** saved passwords. Sites like Google, Discord or WhatsApp may ask you to sign in again. Boosts, Easels and Notes don't come either.
 
 ## What it does
 

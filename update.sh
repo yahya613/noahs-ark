@@ -1,8 +1,8 @@
 #!/bin/bash
 # Puts the newest app code into the copy already on this Mac, for when the normal update can't be built yet.
 # It works on a copy and only swaps it in once that's ready, and it puts the old one back if the new one won't open.
-VERSION='0.16.0'
-SHA='ba8d2551e924c10e39cd749809e94149af83145cc1600405977dd74e8db347ca'
+VERSION='0.17.0'
+SHA='db8e8212c7d1d86d275945e370d2765bc800048974e765897d3fd31245ef6e98'
 SITE='https://noahs-ark.starktech.workers.dev'
 BUNDLE='com.yahya613.browser'
 
