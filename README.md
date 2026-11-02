@@ -36,6 +36,13 @@ curl -fsSL https://raw.githubusercontent.com/yahya613/noahs-ark/main/update.sh |
 [Net.ServicePointManager]::SecurityProtocol='Tls12'; irm https://raw.githubusercontent.com/yahya613/noahs-ark/main/update.ps1 | iex
 ```
 
+## What's new in 0.15
+
+- You can now make an account and sign in on all your computers. Your Spaces, folders, favorites and pinned tabs stay the same on each one.
+- It's locked on your computer before it's sent, so nobody else can read it. Open tabs, passwords and sign-ins stay on each computer.
+- You sign up with just a username and password, no email. Nobody can reset a forgotten password, so you get a recovery code to keep.
+- Find it in Settings, under Account.
+
 ## What's new in 0.14
 
 - Extensions now open in a set place: bigger ones at the top right of the window, smaller ones right where you clicked.
@@ -81,6 +88,7 @@ The first time you open Noah's Ark, it finds your Arc on the same computer and o
 
 **The rest of the kit**
 
+- An account, to keep your Spaces, folders, favorites and pinned tabs the same on all your computers
 - A command bar for searching, opening and switching
 - Picture in picture and a mini player in the sidebar
 - Easels, Notes and screen capture with markup
