@@ -36,6 +36,14 @@ curl -fsSL https://raw.githubusercontent.com/yahya613/noahs-ark/main/update.sh |
 [Net.ServicePointManager]::SecurityProtocol='Tls12'; irm https://raw.githubusercontent.com/yahya613/noahs-ark/main/update.ps1 | iex
 ```
 
+## What's new in 0.18
+
+- Google Lens is built in: circle or drag over anything on a page, and Lens tells you what it is, in a small window beside it. Press Ctrl+Shift+S (Cmd+Shift+S on a Mac), right-click the page and pick Search with Google Lens, or use the site controls.
+- Downloads now sit at the bottom of the sidebar, like in Arc. A ring fills while a file comes in, and clicking it shows what you downloaded today.
+- A pinned tab that isn't open now has a delete button where its X was, so you can take it out of the sidebar in one click.
+- Smoother: new tabs and folder contents ease into place, Spaces slide further, and hovers and the tab you're on fade instead of jumping.
+- Bringing Arc over again now uses the profiles you already made with the same names, instead of making second copies.
+
 ## What's new in 0.17
 
 - New accounts now sign in with your email instead of a username. Your address isn't stored in readable form, only a scrambled version that can't be turned back.
